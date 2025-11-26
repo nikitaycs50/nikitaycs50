@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**nikitaycs50/nikitaycs50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Builder & Indie Maker of:
 
-Here are some ideas to get you started:
+* ♾️ [InfiniChatAI.com](https://infinichatai.com)
+* ❤️ [Norwegian4x4.com](https://norwegian4x4.com)
+* 💘 [HalfwayCheck.com](https://halfwaycheck.com)
+* 🚀 [ProductRocket.ch](https://productrocket.ch)
+* 🧠 [OneMentalHub.com](https://onementalhub.com)
+* 💧 [Takesip.com](https://takesip.com)
+* 🎤 [Dict247.com](https://dict247.com)
+* 🟡 [Heal75.com](https://heal75.com)
+* 🔊 [ncradio.fm](https://ncradio.fm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+... and more
+
+🎯 On the road to $10K+ MRR
+
+### FAILURES
+* 🎯 [cv4job.com](https://cv4job.com) (fail)
+
+... and way more!
