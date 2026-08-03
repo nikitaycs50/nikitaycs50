@@ -31,6 +31,8 @@ Below are a few products I've built or participated in as a founder, developer, 
 | [ValideMoi - Ideas Validation](https://validemoi.com/) | 🔍 Startup idea validation |
 | [Facts Hero - Generate Content](https://factshero.com/) | 🎨 Content generation tool |
 | [Lean Canvas Studio](https://leancanvas.validemoi.com/) | ⬛ Lean canvas builder |
+| [SEObuddy](https://leancanvas.validemoi.com/) | Technical SEO audits from your terminal |
+| [Cursor Context Backup](https://github.com/nikitaycs50/ccb) | Scriptable backup, restore, and cleanup for Cursor chat history on macOS and Linux |
 
 > More is coming — put your helmet on. There are around 20 other projects I had to kill. Trying to fail fast. ⚡
 
